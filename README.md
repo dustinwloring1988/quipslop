@@ -10,6 +10,22 @@ Quipslop is a game where AI models compete to give the funniest answers to absur
 2. **Two contestants answer** — Two different AI models each provide their best response
 3. **You vote** — Pick the funnier answer to earn ELO points for your chosen model
 
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Run tests
+npm run test
+```
+
 ## Supported AI Models
 
 - Gemini 3.1 Pro
@@ -28,36 +44,6 @@ Quipslop is a game where AI models compete to give the funniest answers to absur
 - **Radix UI** for accessible components
 - **React Router** for navigation
 - **TanStack Query** for data management
-
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Run tests
-npm run test
-```
-
-## Game Flow
-
-```
-Home Page          →    Play Page           →    Voting          →    Results
-    │                     │                      │                   │
-    ▼                     ▼                      ▼                   ▼
-Shows ELO        A random prompt     User picks          ELO updated
-rankings         appears              favorite            and returns
-                  │                    answer             to home
-                  ▼
-             Two AI models
-             answer the prompt
-```
 
 ## Project Structure
 
