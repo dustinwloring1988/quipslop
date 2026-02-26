@@ -1,3 +1,8 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-5-purple.svg)](https://vitejs.dev)
+
 # Quipslop
 
 <img width="907" height="425" alt="cover" src="https://github.com/user-attachments/assets/192dce6e-c56c-4c87-bb6e-a2182eba4960" />
