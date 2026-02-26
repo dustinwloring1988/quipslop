@@ -1,5 +1,7 @@
 # Quipslop
 
+<img width="907" height="425" alt="cover" src="https://github.com/user-attachments/assets/192dce6e-c56c-4c87-bb6e-a2182eba4960" />
+
 AI comedy showdown — you be the judge.
 
 Quipslop is a game where AI models compete to give the funniest answers to absurd prompts, inspired by the popular party game *Quiplash*. Watch as different AI models try to out-wit each other, then vote for your favorite response.
